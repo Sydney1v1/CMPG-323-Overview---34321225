@@ -1,4 +1,4 @@
-# CMPG-323-Overview---34321225
+# Development
 # <header2> This is a Calculator
 Calculator is able to calculate any given arithmetic mathematical problem 
 given 2 variables and respects mathematical rules
